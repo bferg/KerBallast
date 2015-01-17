@@ -1,6 +1,6 @@
 {
   "NAME": "KerBallast",
-  "URL": "https://raw.githubusercontent.com/bferg/KerBallast/master/GameData/KerBallast/KerBallast.version",
+  "URL": "https://raw.githubusercontent.com/bferg/KerBallast/master/KerBallast/KerBallast.version",
   "VERSION": {
     "MAJOR": 0,
     "MINOR": 1,
