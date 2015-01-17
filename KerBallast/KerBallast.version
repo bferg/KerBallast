@@ -1,0 +1,15 @@
+{
+  "NAME": "KerBallast",
+  "URL": "https://raw.githubusercontent.com/bferg/KerBallast/master/GameData/KerBallast/KerBallast.version",
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 1,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 0,
+    "MINOR": 90,
+    "PATCH": 0
+  }
+}
